@@ -4,9 +4,9 @@ Authors: Trung Dam, Justin Potts, and Sylvain Zong-Naba
 ![image](https://user-images.githubusercontent.com/102425284/220979690-a722c475-2b6d-4b32-b391-febfdd33a08e.png)
 
 # Project description:
-Our project features a traditional Burkina Faso game, which includes two players placing and taking turn to move 3 markers. Our code requires users to install Java 17 in order to use kilt-graphics, a graphic library developed by the Mathematics, Statistics, and Computer Science (MSCS) department in Macalester College: https://mac-comp127.github.io/kilt-graphics/index.html.
+Our project features a traditional Burkina Faso game, which includes two players placing and taking turns to move 3 markers. Our code requires users to install Java 17 to use kilt-graphics, a graphic library developed by the Mathematics, Statistics, and Computer Science (MSCS) department in Macalester College: https://mac-comp127.github.io/kilt-graphics/index.html.
 
-In order to play the game, users should first log their name into name boxes. Then the game takes the players to a board screen, where requires them to place 3 markers by turn. Using computer mouse, one player must move their markers smartly to form a row, a column, or a diagnal line to win the game. The players can further change their names and play the game over again.
+To play the game, users should first log their name into name boxes. Then the game takes the players to a board screen, which requires them to place 3 markers by turn. Using a computer mouse, one player must move their markers smartly to form a row, a column, or a diagonal line to win the game. The players can further change their names and play the game over again.
 
 # Known Issues and Ideas for Further Implementation:
 There is nothing that happens when a player does not apply the game rules; they would not be able to place their marker for example if they put it on a spot which already has a marker on it.
